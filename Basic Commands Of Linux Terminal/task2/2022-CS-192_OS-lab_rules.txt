@@ -1,0 +1,5 @@
+ Create Typora file with screenshots
+ Your documents should include Task 1 , Task 2 , and Task 3.
+ Rename your document like: 2022-CS-x_OS_SE_Lab#1.
+ Done with your work, submit your work on google classroom on time.
+2022-CS-192_OS-lab_rules.txt

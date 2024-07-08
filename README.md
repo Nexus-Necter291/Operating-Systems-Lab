@@ -25,3 +25,7 @@ This repository contains a collection of projects and tasks related to operating
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/nexus-nektar291/Operating-Systems-Course.git
+
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Operating-Systems-Lab
